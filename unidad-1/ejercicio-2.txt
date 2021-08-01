@@ -1,0 +1,44 @@
+Pasos secuenciales para dibujar un cuadrado.
+
+Paso 1
+------
+  Conseguir los materiales necesarios para dibujar la figura. 
+  Seleccionar la superficie a dibujar o marcar y asegurarse de que la figura pueda dibujarse en ella.
+  Se recomienda buscar un objeto de medición como por ejemplo un regla.
+  Un elemento marcador o rayador, de preferencia de color contrastante a la superficie para destacar.
+
+Paso 2
+------
+  Ubicar el objeto de medición encima de la superficie seleccionada pudiendo ocupar el ancho o el largo de esta pero no ambos, es decir a un costado y sostenerlo con firmeza. Para esto se recomienda utilizar la mano menos hábil.
+
+Paso 3
+------
+  Proceda a tomar el elemento marcador o rayador con su mano más hábil y apoye la punta de escritura/marcado en el borde del objeto de medición desde el inicio a lo largo del mismo.
+
+Paso 4
+------
+  Sin levantar la punta del elemento marcador/rayador y mantiendolo pegado al borde del objeto de medición, deslicelo siguiendo el contorno marcado por el objeto de medición a lo largo, pudiendo así generar una primer línea recta con la longitud que considere necesario.
+
+Paso 5
+------
+  Ahora elija una de las puntas finales de la línea previamente dibujada, mueva el obejeto de medición hacia la punta seleccionada haciendo coincidir el incio a lo largo de este objeto con la punta seleccionada de la línea, úbicandolo de manera perpendicular a la recta, creando así un angulo de aproximadamente 90 grados. Siga sosteniendolo con firmeza.
+
+Paso 6
+------
+  Nuevamente proceda a tomar el elemento marcador/rayador y apoyelo en el borde del elemento de medición y por sobre la punta seleccionada.
+
+Paso 7
+------
+  A partir de esa punta, sin cortar la primer línea previamente dibujada, deslice el elemento marcador/rayador a lo largo del objeto de medición creando una segunda línea recta perpendicular a la primera y continue hasta alcanzar la misma longitud que de la primer línea generada.
+
+Paso 8
+------
+  Realice el mismo procedimiento que utilizó para crear la segunda línea recta, pero está vez ultilizando la punta opuesta de la primer línea generada y asegurese de que la nueva tercer línea recta perpendicular de 90 grados tenga la misma longitud y la misma dirección que de la segunda línea.
+
+Paso 9
+------
+  Seguidamente proceda a mover el objeto de medición hacia las puntas finales y no utilizadas de la segunda y la tercera línea sosteniendolo firmemente y haciendo coincidir el borde a lo largo del mismo con ambas puntas. 
+
+Paso 10
+-------
+  Finalmente vuelva a tomar el elemento de escritura/marcado/rayado y apoyelo en una de las puntas de las líneas no utilizadas y proceda a marcar una cuarta línea recta siguiendo el contorno del objeto de medición en dirección a la línea opuesta para que pueda unir las puntas de la segunda línea y la tercera línea sin cortarlas. Asegurese de que esta cuarta línea tenga la misma dirección y longitud que la primer línea generada.

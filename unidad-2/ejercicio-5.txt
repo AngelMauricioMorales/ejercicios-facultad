@@ -1,0 +1,15 @@
+Pseudocódigo para un rectángulo.
+
+var h
+var b
+var perimetro
+var area
+
+h = VALOR INGRESADO POR EL USUARIO
+b = VALOR INGRESADO POR EL USUARIO
+perimetro = 2 * (b + h) 
+area = h * b
+
+MOSTRAR "Perimetro = " + perimetro + "cm"
+MOSTRAR "Area = " + area + "cm"
+

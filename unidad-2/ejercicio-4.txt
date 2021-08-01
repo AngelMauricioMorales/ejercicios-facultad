@@ -1,0 +1,12 @@
+Pseudocódigo para un cuadrado.
+
+var longDeLados
+var area
+var perimetro
+
+longDeLados = VALOR INGRESADO POR EL USUARIO
+perimetro = longDeLados ** 2
+area = longDeLados * longDeLados
+
+MOSTRAR "La superficie del cuadrado es: " + area + "cm"
+MOSTRAR "El perimetro del cuadrado es: " + perimetro + "cm"

@@ -1,0 +1,15 @@
+Pseudocódigo un triángulo.
+
+var lado1
+var lado2
+var lado3
+var perimetro
+
+lado1 = VALOR INGRESADO POR EL USUARIO
+lado2 = VALOR INGRESADO POR EL USUARIO
+lado3 = VALOR INGRESADO POR EL USUARIO
+
+perimetro = lado1 + lado2 + lado3
+
+MOSTRAR "El perimetro del triangulo es: " + perimetro
+

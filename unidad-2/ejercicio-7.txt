@@ -1,0 +1,12 @@
+Pseudocódigo para el registro de un usuario.
+
+var nombre
+var apellido
+var saludo
+
+nombre = DATO INGRESADO POR EL USUARIO
+apellido = DATO INGRESADO POR EL USUARIO
+saludo = "Bienvenido"
+
+MOSTRAR saludo + " " + nombre + " " + apellido
+

@@ -1,0 +1,11 @@
+Pseudocódigo para calcular el resto.
+
+var valor1
+var valor2
+var resto
+
+valor1 = VALOR INGRESADO POR EL USUARIO
+valor2 = VALOR INGRESADO POR EL USUARIO
+resto = valor1 % valor2
+
+MOSTRAR resto

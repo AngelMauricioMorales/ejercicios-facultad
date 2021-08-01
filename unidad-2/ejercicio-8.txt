@@ -1,0 +1,13 @@
+Pseudocódigo para el diámetro de un círculo.
+
+var diametro
+var perimetro
+var area
+var pi = 3.1416
+
+diametro = DATO INGRESADO POR EL USUARIO
+perimetro = pi * diametro
+area = pi * ((diametro / 2) ** 2)
+
+MOSTRAR "El perimetro del círculo es: " + perimetro
+MOSTRAR "El área del círculo es: " + area 
